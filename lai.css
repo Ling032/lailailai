@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+.a{
+    color:gold;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c{
+    color:white;
+    text-align: center;
+}
+
+.text{
+    font-size: 16;
+    color:white;
+    text-align: center;
+    margin-top:10px;
+}
+
+.name{
+    color:yellow;
+    text-decoration: underline;
+}
